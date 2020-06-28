@@ -12,10 +12,10 @@
     <title>IN N OUT</title>
 </head>
 
-<body>
+<body class="">
 
     <header class="header">
-        <div class="logo">
+        <div class="logo ml-3">
             <i class="icofont-travelling"></i>
             <span class="font-weight-light ml-2">In</span>
             <span class="font-weight-bold mx-2">N'</span>
@@ -28,4 +28,8 @@
         </div>
 
         <div class="spacer"></div>
+        <div class="user">
+            <span>Usuário Mock</span>
+            <a href="#" class="logout ml-2">Sair</a>
+        </div>
     </header>
